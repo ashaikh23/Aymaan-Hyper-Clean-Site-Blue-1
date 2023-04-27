@@ -9,13 +9,13 @@ module.exports = {
     // Description that goes under your name in main bio
     description: `I am king`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    author: `@ashaikh23`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/ashaikh23`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/aymaan-shaikh/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `Passionate about creating meaningful change through computer science. error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -43,6 +43,17 @@ module.exports = {
         name: 'Acme Corp',
         description: 'Full-Stack Developer, February 2020 - Present',
         link: 'https://github.com/RyanFitzgerald/devfolio',
+      },
+      {
+        name: 'Fidelity Investments',
+        description: 'Full Stack Engineering Intern, Jun 2022 - Aug 2022',
+        link: '',
+        details: [
+          '- Developed and maintained RESTful APIs for two financial applications, including a 529 Savings Plan Finance Application and a Full Stack Employee Management Application (CRUD API).',
+          '- Validated user credentials for account security and ensured data integrity through extensive testing with Postman.',
+          '- Collaborated with a team of developers to create a Full Stack Employee Management Application, which included frontend development with AngularJS, NodeJS, and HTML / CSS, as well as backend development with TypeScript, Spring Boot, and MySQL.',
+          '- Implemented version control using Git and Bitbucket to manage codebase and streamline collaboration with team members.'
+        ]
       },
       {
         name: 'Globex Corp',
